@@ -69,7 +69,8 @@ DATA_MASTER = {
         "Dzulaikha Nur Alisya Ramadhani", "Harum Aryanti", "Jasyiyah Vania Ryandra",
         "Khafatunida Az-Zahra", "Muhammad Rizky Ramadhan", "Napila Nur Azizah",
         "Nikita Leonardi", "Rafly Prasetio", "Regata Katra Yuda",
-        "Thoriq Adli Nugraha", "Aqila Nafisah Belva", "Rizky pangestu"
+        "Thoriq Adli Nugraha", "Aqila Nafisah Belva", "Rizky pangestu",
+        "Alfirah Rinandra Dewy", "Syakila Khairunnisa"     
     ]
 }
 
