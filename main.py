@@ -60,7 +60,8 @@ DATA_MASTER = {
         "Dea Ananda Putri", "Kia Sakila Putri Awazra", "Marvella Tiffany Wijaya",
         "Meshitah Zeny", "Muhammad Genta Antariska", "Muhammad Rizky Permana Putra",
         "Muhamad Rasya Fadilah", "Nasya Aliya", "Nur Asyifa Syabilla",
-        "Princesse Morauli", "Syahirah Az-Zahra", "Samuel Lukman"
+        "Princesse Morauli", "Syahirah Az-Zahra", "Samuel Lukman",
+        "muhammad aprija"
     ],
     "X TJKT 3": [
         "Adit Bima Saputra", "Aldi Apriliansyah", "Al Fattach Maulan Muslim",
@@ -70,7 +71,8 @@ DATA_MASTER = {
         "Khafatunida Az-Zahra", "Muhammad Rizky Ramadhan", "Napila Nur Azizah",
         "Nikita Leonardi", "Rafly Prasetio", "Regata Katra Yuda",
         "Thoriq Adli Nugraha", "Aqila Nafisah Belva", "Rizky pangestu",
-        "Alfirah Rinandra Dewy", "Syakila Khairunnisa"     
+        "Alfirah Rinandra Dewy", "Syakila Khairunnisa", "hafidhillah okrapianto",
+        "rizqiah luluil maknunisa", "evran dhipramana syabana", "rafly prasetio"
     ]
 }
 
