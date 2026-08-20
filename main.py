@@ -173,7 +173,7 @@ st.markdown("---")
 st.subheader("🔒 Menu Khusus Admin")
 password = st.text_input("Masukkan Password Admin untuk membuka rekap:", type="password")
 
-if password == "rahasiaUP2026":
+if password == "KerjasamaTJKT2026":
     st.success("🔓 Akses Diterima! Berikut rekap data kehadiran:")
     if os.path.exists(NAMA_FILE_DATA):
         df_cetak = pd.read_csv(NAMA_FILE_DATA)
